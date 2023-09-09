@@ -1,0 +1,254 @@
+﻿DAP,PAGO,ING,NE,EDAD,HABITA,PERT,IMPOR
+No,8000,2500000,MSc,52,No,No,No
+No,1000,300000,Bachiller,54,Si,No,No
+Si,3000,620000,PhD,26,Si,No,Si
+Si,8000,2500000,PhD,33,Si,No,Si
+No,4000,1500000,PhD,25,Si,No,Si
+No,3000,800000,PhD,47,Si,No,Si
+Si,500,150000,MSc,35,Si,No,Si
+No,5000,1000000,PhD,43,Si,No,No
+Si,4000,1150000,MSc,54,No,No,Si
+No,2000,500000,MSc,30,Si,No,Si
+No,500,170000,MSc,45,Si,No,Si
+Si,2000,600000,MSc,54,Si,No,Si
+Si,1000,300000,MSc,39,No,No,No
+Si,2000,300000,MSc,44,Si,No,Si
+Si,3000,800000,MSc,32,Si,No,Si
+No,5000,1000000,PhD,25,Si,No,No
+No,4000,1300000,Profesional Universitario,23,Si,Si,Si
+Si,5000,2000000,PhD,51,Si,No,Si
+No,1000,300000,PhD,45,Si,No,Si
+Si,2000,300000,PhD,38,Si,No,Si
+Si,3000,600000,Profesional Universitario,47,Si,No,Si
+Si,3000,700000,MSc,23,No,No,No
+Si,1000,280000,MSc,30,Si,Si,Si
+Si,1000,300000,MSc,47,Si,No,No
+Si,2000,900000,Profesional Universitario,45,Si,No,Si
+Si,2000,400000,Bachiller,32,Si,No,No
+Si,3000,770000,PhD,25,Si,Si,Si
+Si,2000,700000,PhD,43,Si,No,Si
+Si,500,200000,MSc,33,Si,No,No
+Si,1000,220000,Profesional Universitario,38,No,No,No
+Si,2000,490000,MSc,31,Si,No,Si
+Si,3000,500000,MSc,47,Si,No,Si
+No,1000,250000,MSc,28,Si,No,Si
+Si,1000,230000,PhD,43,Si,No,No
+Si,500,200000,Profesional Universitario,29,No,No,No
+Si,500,600000,Profesional Universitario,29,Si,No,Si
+Si,500,170000,Profesional Universitario,28,Si,No,Si
+Si,500,190000,Profesional Universitario,30,Si,No,Si
+Si,4000,600000,Profesional Universitario,52,Si,No,No
+Si,4000,450000,MSc,41,No,Si,No
+Si,4000,600000,PhD,44,Si,No,Si
+No,8000,3800000,PhD,50,Si,No,Si
+Si,5000,800000,Profesional Universitario,54,Si,No,Si
+No,1000,250000,Bachiller,25,Si,No,No
+Si,5000,1200000,Bachiller,27,Si,No,No
+No,8000,350000,Bachiller,35,No,No,No
+Si,8000,800000,PhD,40,Si,No,Si
+No,8000,830000,PhD,45,Si,No,Si
+Si,1000,1500000,MSc,56,No,No,Si
+Si,2000,800000,MSc,36,Si,No,Si
+Si,500,150000,Profesional Universitario,58,Si,Si,Si
+Si,1000,1000000,Profesional Universitario,56,No,No,Si
+Si,5000,1150000,MSc,49,No,No,Si
+No,1000,500000,Profesional Universitario,65,Si,No,Si
+No,500,170000,Profesional Universitario,34,No,No,No
+No,1000,600000,MSc,46,Si,No,Si
+Si,1000,500000,PhD,47,Si,No,Si
+Si,500,170000,Bachiller,58,Si,No,Si
+Si,1000,600000,Profesional Universitario,36,Si,No,Si
+No,1000,300000,Bachiller,47,No,No,Si
+No,1000,300000,MSc,48,No,No,Si
+Si,1000,800000,MSc,56,Si,No,Si
+Si,3000,1000000,PhD,54,Si,No,Si
+No,5000,1300000,PhD,53,No,No,Si
+Si,3000,2000000,MSc,67,No,Si,Si
+No,1000,300000,Profesional Universitario,45,No,Si,No
+No,1000,300000,Bachiller,32,No,No,Si
+No,3000,600000,Profesional Universitario,25,No,No,Si
+No,3000,700000,MSc,23,No,No,Si
+No,1000,280000,Bachiller,51,Si,No,Si
+No,1000,300000,Profesional Universitario,45,Si,No,No
+Si,3000,900000,Profesional Universitario,38,No,No,Si
+No,4000,100000,Profesional Universitario,47,Si,No,Si
+Si,5000,1150000,Profesional Universitario,23,Si,No,Si
+No,1000,500000,MSc,30,Si,No,Si
+Si,500,170000,MSc,47,Si,No,Si
+Si,1000,600000,Profesional Universitario,45,No,No,Si
+No,2000,300000,MSc,32,Si,No,Si
+No,2000,300000,Bachiller,25,Si,No,No
+Si,3000,800000,MSc,43,No,No,Si
+Si,3000,1000000,MSc,33,Si,No,Si
+Si,2000,1300000,PhD,38,Si,No,Si
+No,3000,2000000,MSc,31,No,No,Si
+Si,1000,300000,Profesional Universitario,47,Si,No,Si
+No,1000,300000,MSc,28,Si,No,Si
+Si,1000,600000,MSc,43,Si,No,No
+Si,1000,700000,PhD,29,No,No,Si
+Si,1000,280000,Profesional Universitario,29,No,No,Si
+No,2000,300000,Profesional Universitario,28,No,No,Si
+No,3000,900000,Bachiller,30,Si,No,No
+No,1000,300000,MSc,52,Si,No,Si
+No,3000,800000,PhD,41,Si,Si,Si
+No,3000,1000000,MSc,44,No,No,No
+No,5000,1300000,MSc,50,Si,No,Si
+Si,3000,2000000,MSc,54,No,No,Si
+No,1000,300000,Profesional Universitario,25,Si,No,Si
+No,1000,300000,Bachiller,27,Si,No,No
+No,1000,600000,MSc,35,Si,No,Si
+Si,1000,700000,PhD,40,Si,No,No
+No,1000,280000,MSc,54,Si,No,Si
+No,1000,300000,MSc,26,No,No,No
+Si,2000,900000,PhD,33,No,No,Si
+Si,1000,400000,MSc,25,No,No,No
+Si,2000,770000,PhD,47,Si,No,Si
+Si,2000,700000,MSc,35,Si,No,No
+Si,500,200000,MSc,43,Si,No,No
+Si,500,220000,Profesional Universitario,54,No,No,No
+Si,2000,490000,MSc,30,No,No,No
+No,2000,500000,MSc,45,No,No,No
+Si,500,250000,Bachiller,54,No,No,No
+No,500,230000,Profesional Universitario,39,Si,No,No
+Si,500,200000,Bachiller,44,Si,No,No
+Si,2000,600000,MSc,32,No,No,No
+Si,3000,600000,Profesional Universitario,25,No,No,Si
+No,3000,700000,Profesional Universitario,23,No,No,No
+No,1000,280000,MSc,51,Si,No,Si
+No,500,300000,Bachiller,45,Si,No,No
+Si,2000,900000,MSc,38,Si,No,No
+Si,2000,1000000,Profesional Universitario,47,Si,No,Si
+Si,3000,1150000,MSc,23,No,No,Si
+No,3000,500000,MSc,30,Si,No,Si
+No,500,170000,Profesional Universitario,33,Si,No,No
+No,1000,600000,Profesional Universitario,25,Si,No,Si
+Si,2000,1000000,MSc,47,Si,No,Si
+Si,3000,1150000,Profesional Universitario,35,Si,No,Si
+Si,1000,500000,Profesional Universitario,43,Si,No,Si
+Si,500,170000,MSc,54,No,No,Si
+Si,500,600000,Profesional Universitario,30,No,No,Si
+No,500,300000,MSc,45,No,No,Si
+No,500,300000,Profesional Universitario,54,No,No,Si
+Si,500,800000,MSc,39,No,No,Si
+No,3000,1000000,MSc,44,No,No,Si
+Si,4000,1300000,PhD,32,No,No,Si
+No,4000,2000000,MSc,25,No,No,Si
+Si,1000,300000,Bachiller,23,Si,No,Si
+No,1000,300000,Bachiller,51,Si,No,Si
+No,2000,600000,Profesional Universitario,45,Si,No,Si
+No,5000,700000,Profesional Universitario,56,Si,No,Si
+No,1000,280000,Profesional Universitario,34,Si,No,Si
+No,1000,300000,Profesional Universitario,53,Si,No,Si
+No,2000,900000,MSc,42,Si,Si,Si
+Si,1000,400000,Profesional Universitario,41,Si,No,Si
+Si,2000,770000,Profesional Universitario,56,No,No,Si
+Si,2000,700000,MSc,65,Si,No,Si
+Si,500,200000,Profesional Universitario,43,Si,No,Si
+No,500,220000,MSc,54,Si,No,Si
+No,1000,490000,MSc,35,Si,No,Si
+No,2000,500000,Profesional Universitario,62,Si,No,Si
+No,500,250000,Profesional Universitario,27,Si,No,Si
+Si,500,230000,Bachiller,26,Si,No,Si
+No,500,200000,Profesional Universitario,47,Si,No,Si
+No,8000,2500000,PhD,28,Si,No,Si
+Si,500,300000,Bachiller,29,No,No,Si
+Si,3000,620000,MSc,56,No,No,Si
+Si,8000,2500000,PhD,54,Si,No,Si
+No,3000,1500000,MSc,63,No,No,Si
+Si,1000,800000,MSc,48,No,No,Si
+No,500,150000,Bachiller,27,Si,No,Si
+Si,3000,1000000,MSc,32,Si,No,Si
+No,8000,1150000,MSc,26,No,No,No
+Si,1000,500000,MSc,25,No,No,Si
+No,500,170000,Profesional Universitario,27,Si,No,No
+No,1000,600000,MSc,35,Si,No,Si
+No,2000,300000,MSc,45,Si,No,Si
+No,1000,300000,Profesional Universitario,36,Si,No,Si
+Si,2000,800000,MSc,58,Si,No,Si
+Si,3000,1000000,MSc,54,Si,No,Si
+Si,4000,1300000,Profesional Universitario,26,No,No,Si
+Si,2000,2000000,PhD,33,Si,No,Si
+Si,500,300000,Profesional Universitario,25,Si,No,Si
+Si,2000,300000,MSc,47,Si,No,Si
+No,2000,600000,MSc,35,No,No,Si
+No,2000,700000,PhD,43,Si,No,Si
+No,1000,280000,Bachiller,54,Si,No,Si
+Si,2000,300000,Bachiller,30,No,No,Si
+Si,3000,900000,MSc,45,Si,No,Si
+Si,1000,400000,MSc,54,No,No,Si
+Si,2000,770000,PhD,39,Si,No,Si
+Si,3000,700000,Profesional Universitario,44,Si,No,Si
+No,1000,200000,Profesional Universitario,32,Si,No,No
+Si,1000,220000,MSc,25,Si,No,Si
+Si,2000,490000,PhD,23,No,No,Si
+Si,1000,500000,Profesional Universitario,51,Si,No,Si
+No,2000,250000,Profesional Universitario,45,No,No,Si
+Si,1000,230000,Bachiller,38,No,No,No
+Si,2000,200000,Bachiller,47,Si,No,Si
+Si,3000,600000,Profesional Universitario,23,Si,No,No
+Si,500,170000,Profesional Universitario,30,No,No,Si
+Si,500,190000,Profesional Universitario,47,Si,No,Si
+Si,5000,600000,Bachiller,45,No,No,Si
+No,4000,450000,MSc,32,Si,No,No
+No,2000,600000,Profesional Universitario,25,No,No,Si
+No,8000,3800000,MSc,43,No,Si,Si
+Si,3000,800000,PhD,33,Si,No,Si
+Si,1000,250000,Profesional Universitario,38,Si,No,Si
+Si,4000,1200000,PhD,31,Si,No,Si
+Si,2000,350000,MSc,47,Si,Si,No
+No,2000,800000,Bachiller,28,No,No,Si
+No,3000,830000,PhD,43,No,No,Si
+No,5000,1500000,MSc,29,Si,Si,Si
+No,3000,800000,MSc,29,Si,No,Si
+No,500,150000,Bachiller,28,Si,No,Si
+No,3000,1000000,MSc,30,Si,No,Si
+No,5000,1150000,Profesional Universitario,52,Si,No,Si
+No,2000,500000,MSc,41,No,No,No
+Si,1000,170000,Profesional Universitario,36,Si,No,Si
+No,8000,600000,MSc,58,Si,No,No
+Si,4000,500000,Profesional Universitario,54,Si,No,Si
+No,1000,170000,Bachiller,26,Si,No,Si
+No,3000,600000,Bachiller,33,No,No,No
+No,500,300000,Bachiller,25,No,No,Si
+Si,1000,300000,MSc,47,No,No,Si
+Si,500,800000,PhD,35,Si,Si,Si
+Si,4000,1000000,Profesional Universitario,43,Si,No,Si
+Si,5000,1300000,MSc,65,No,No,Si
+Si,5000,2000000,PhD,43,No,No,Si
+No,5000,300000,Bachiller,54,Si,No,No
+Si,1000,300000,MSc,35,Si,No,Si
+No,3000,600000,Profesional Universitario,62,Si,No,Si
+No,3000,700000,MSc,27,No,No,Si
+No,1000,280000,Bachiller,26,No,No,Si
+Si,1000,300000,Profesional Universitario,47,No,No,Si
+Si,3000,900000,MSc,28,No,No,Si
+Si,5000,1000000,MSc,29,No,No,No
+Si,4000,1150000,PhD,56,No,No,Si
+Si,3000,500000,MSc,54,Si,No,No
+Si,1000,170000,Profesional Universitario,63,Si,No,No
+Si,2000,600000,Profesional Universitario,48,No,No,Si
+No,1000,300000,Bachiller,27,No,No,Si
+Si,2000,300000,PhD,32,Si,No,Si
+No,2000,800000,MSc,26,No,No,Si
+No,3000,1000000,PhD,25,No,No,Si
+Si,4000,1300000,MSc,27,No,No,Si
+Si,5000,2000000,MSc,29,Si,No,Si
+No,2000,300000,Bachiller,45,Si,No,No
+No,2000,300000,MSc,47,No,No,No
+No,3000,600000,Bachiller,56,Si,Si,Si
+Si,2000,700000,MSc,43,Si,No,No
+Si,500,280000,Profesional Universitario,32,No,No,No
+Si,1000,300000,Bachiller,35,No,No,Si
+Si,2000,900000,MSc,39,Si,No,Si
+Si,1000,300000,Bachiller,45,Si,Si,Si
+No,2000,800000,MSc,56,Si,No,No
+No,3000,1000000,MSc,45,Si,Si,Si
+No,5000,1300000,Profesional Universitario,78,No,No,Si
+Si,5000,1500000,MSc,35,Si,No,Si
+Si,500,800000,PhD,54,No,No,Si
+No,500,150000,Profesional Universitario,37,Si,No,Si
+Si,3000,1000000,Profesional Universitario,67,Si,No,Si
+No,4000,1150000,MSc,54,No,No,Si
+Si,2000,500000,Bachiller,34,Si,No,No
+No,500,170000,Bachiller,23,Si,No,No
+Si,2000,800000,MSc,56,Si,No,No
